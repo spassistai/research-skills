@@ -1,0 +1,8 @@
+{
+  "name": "academic-research",
+  "version": "1.0.0",
+  "description": "Academic research skill bundle: deep-research pipeline, academic paper writing pipeline, multi-perspective paper reviewer, and end-to-end research-to-publication orchestrator.",
+  "author": {
+    "name": "Stanislaw"
+  }
+}

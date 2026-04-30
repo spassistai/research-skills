@@ -1,0 +1,13 @@
+{
+  "name": "research-skills",
+  "owner": {
+    "name": "Stanislaw"
+  },
+  "plugins": [
+    {
+      "name": "academic-research",
+      "source": "./academic-research",
+      "description": "Academic research skill bundle: deep-research, academic-paper, academic-paper-reviewer, academic-pipeline."
+    }
+  ]
+}
